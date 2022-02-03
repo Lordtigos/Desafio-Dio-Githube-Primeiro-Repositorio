@@ -1,2 +1,2 @@
-# Desafio-Dio-Githube-Primeiro-Repositorio
-Desafio de Código sober Git / Github
+# Desafio de projeto da dio Git / Github
+Repositorio criado para desafio da Dio
